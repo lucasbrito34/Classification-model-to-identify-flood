@@ -1,5 +1,5 @@
 # Classification-model-to-identify-flood
-Código fonte do artigo : "FLORAS:  Assessing  Urban  FLash-flood  Risk  Using  a Multivariate Model"
+Article source code: "FLORAS:  Assessing  Urban  FLash-flood  Risk  Using  a Multivariate Model"
 
 This article develops a multivariate model for flood detection that has machine learning and a heterogeneous database.
 
@@ -17,7 +17,7 @@ Installation of the Weka tool that aggregates algorithms from different approach
 
 ## Step 2
 
-Pre-processing of data with treatment of missing values, balancing of the data and also aggregation of heterogeneous data available in this Git in the folder Pre_ Processamento.
+Preprocessing of data with treatment of missing values, balancing of the data and also aggregation of heterogeneous data available in this Git in the folder Pre_ Processamento
 
 ## Step 3
 
