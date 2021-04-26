@@ -53,9 +53,6 @@ def categoriza(s):
     return 0;
 
 
-dataset_all = dataset_all['label'] = dataset_all['valor'].apply(categoriza)
-
-
 #Add variable concentration time
 
 dataset_all['TempoConcentracao'] = dataset_all['precipitacao'].rolling(min_periods=5, window=24).sum()
