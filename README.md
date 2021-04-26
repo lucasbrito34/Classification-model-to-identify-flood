@@ -9,7 +9,7 @@ This article develops a multivariate model for flood detection that has machine 
 * python 3.4 (Data preprocessing)
 * Weka: Weka is tried and tested open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. (visit https://www.cs.waikato.ac.nz/ml/weka/ for more informations)
 
-## How it works?
+## How to develop the model?
 
 ### Step 1
 
