@@ -13,7 +13,7 @@ This article develops a multivariate model for flood detection that has machine 
 
 ### Step 1
 
-Installation of the Weka tool that aggregates algorithms from different approaches / paradigms in the sub-area of artificial intelligence dedicated to the study of machine learning and also python 3.4 for Data preprocessing before training and validation.
+Installation of the **Weka** tool that aggregates algorithms from different approaches / paradigms in the sub-area of artificial intelligence dedicated to the study of **machine learning** and also python 3.4 for Data preprocessing before training and validation.
 
 ## Step 2
 
