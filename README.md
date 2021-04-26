@@ -24,4 +24,4 @@ Preprocessing of data with treatment of missing values, balancing of the data an
 In this step it is time to configure the parameters of the algorithms that are described in the article, remembering that the data to be executed in the Weka tool
  it has to be in the format of .arrf and that is the beginning of the development of the model that identifies the flood.
 
-
+## More information is in the article with technical and conceptual details.
