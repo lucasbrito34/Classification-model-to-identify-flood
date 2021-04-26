@@ -21,6 +21,7 @@ Preprocessing of data with treatment of missing values, balancing of the data an
 
 ## Step 3
 
-In this step it is time to configure the parameters of the algorithms that are described in the article in the Weka tool and run the database already processed and develop and evaluate the model that identifies the flood.
+In this step it is time to configure the parameters of the algorithms that are described in the article, remembering that the data to be executed in the Weka tool
+ it has to be in the format of .arrf and that is the beginning of the development of the model that identifies the flood.
 
 
